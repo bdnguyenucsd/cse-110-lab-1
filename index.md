@@ -1,6 +1,8 @@
 # Bryan's User Page
 Hi there! I'm a 4th year Math-CS major at the **University of California San Diego**. I'm mainly interested in ~~algebra~~ ***group theory, cryptography, numerical analysis, and music***.
 
+Here is a link to go to the site's [README.md](README.md). It should contain a link to go back to the site.
+
 ## Table of Contents
 1. [Cryptography](#cryptography)
 2. [Other Interests](#other-interests)
@@ -53,7 +55,7 @@ Otherwise, here are a list of recommendations of some of my more favorite tradit
 
 ### Memes
 Before you go, take this meme. It is dangerous to go alone.
-[Meme](https://github.com/bdnguyenucsd/cse-110-lab-1/tree/add-gitignore/images/security.png)
+![Meme](https://github.com/bdnguyenucsd/cse-110-lab-1/tree/add-gitignore/images/security.png)
 
 > Credit to Randall Munroe, the creator of xkcd comics. Original can be found [here](https://xkcd.com/538/).
 
