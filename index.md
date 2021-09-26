@@ -5,7 +5,7 @@ Hi there! I'm a 4th year Math-CS major at the **University of California San Die
 1. [Cryptography](#cryptography)
 2. [Other Interests](#other-interests)
 3. [Music](#music)
-  -[More Standard Music](##more-standard-music)
+   1. [More Standard Music](#more-standard-music)
 4. [Tasks](#tasks)
 
 ### Cryptography
@@ -53,7 +53,7 @@ Otherwise, here are a list of recommendations of some of my more favorite tradit
 
 ### Memes
 Before you go, take this meme. It is dangerous to go alone.
-[Meme](https://github.com/bdnguyenucsd/cse-110-lab-1/images/security.png)
+[Meme](https://github.com/bdnguyenucsd/cse-110-lab-1/tree/add-gitignore/images/security.png)
 
 > Credit to Randall Munroe, the creator of xkcd comics. Original can be found [here](https://xkcd.com/538/).
 
