@@ -54,8 +54,10 @@ Otherwise, here are a list of recommendations of some of my more favorite tradit
 - [Audien and Echosmith - Favorite Sound (Indie Rock)](https://www.youtube.com/watch?v=ORA0kWZ7DnA)
 
 ### Memes
-Before you go, take this meme. It is dangerous to go alone.
-![Meme](https://github.com/bdnguyenucsd/cse-110-lab-1/tree/add-gitignore/images/security.png)
+Before you go, take this meme. It is dangerous to go alone. Click the relative link to go to the file page.
+[Meme](https://github.com/bdnguyenucsd/cse-110-lab-1/tree/add-gitignore/images/security.png)
+
+![Meme2](/images/security.png)
 
 > Credit to Randall Munroe, the creator of xkcd comics. Original can be found [here](https://xkcd.com/538/).
 
